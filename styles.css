@@ -1,0 +1,32 @@
+body {
+	background-color: powderblue;
+	background-image: url('img_girl.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% 100%;
+}
+
+h1 {color: red;font-family: comic sans ms;
+	font-size: 300%;
+	text-align: center;
+	border: 5px solid green;
+
+}
+
+h2 {
+	color: green;font-family: american typewriter;
+	font-size: 200%;
+	text-align: center;
+	border: 5px solid blue;
+}
+
+h3 {
+	color:blue;font-size: 150%;
+	text-align: center;
+	border: 5px solid red;
+}
+
+p {
+	color:aliceblue;
+	border: 2px solid darkcyan;
+}

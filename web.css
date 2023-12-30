@@ -1,0 +1,22 @@
+body {
+    background-color: aliceblue;
+    background-image: url('coffeehouse2.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+h1 {
+    text-align: center;
+    font-family: american typewriter;
+    font-size: 200%;
+    color: red;
+    background-color: darkblue;
+    border: 5px solid blueviolet;
+    padding: 2px;
+    margin: 2px;
+    border-radius: 10px;
+    border-style: initial;
+
+}
+
